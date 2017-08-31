@@ -1,0 +1,10 @@
+# From the original Makefile:
+#
+# "When you install glkterm, you must put libglktermw.a in the lib directory,
+#  and glk.h, glkstart.h, and Make.glkterm in the include directory."
+
+libglktermw.a   /usr/lib
+glk.h           /usr/include/glkterm
+glkstart.h      /usr/include/glkterm
+Make.glkterm    /usr/include/glkterm
+
