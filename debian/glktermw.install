@@ -4,7 +4,7 @@
 #  and glk.h, glkstart.h, and Make.glkterm in the include directory."
 
 libglktermw.a   /usr/lib
-glk.h           /usr/include/glkterm
-glkstart.h      /usr/include/glkterm
-Make.glktermw   /usr/include/glkterm
+glk.h           /usr/include/glktermw
+glkstart.h      /usr/include/glktermw
+Make.glktermw   /usr/include/glktermw
 
