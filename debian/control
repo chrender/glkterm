@@ -1,0 +1,16 @@
+Source: glkterm
+Section: libdevel
+Priority: extra
+Maintainer: Christoph Ender <christoph.ender@spellbreaker.org>
+Build-Depends: debhelper (>= 9.0.0),
+ dpkg-dev (>= 1.16.1~),
+ libncursesw5-dev
+Standards-Version: 4.0.0
+Homepage: http://eblong.com/zarf/glk/remglk/docs.html
+
+Package: glkterm
+Architecture: any
+Depends: ${misc:Depends}
+Description: NCurses.h Implementation of the Glk API.
+ This is an implementation of the Glk library which runs in a terminal window,
+ using the curses.h library for screen control, written by Andrew Plotkin.
