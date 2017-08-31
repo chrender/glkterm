@@ -6,5 +6,5 @@
 libglktermw.a   /usr/lib
 glk.h           /usr/include/glkterm
 glkstart.h      /usr/include/glkterm
-Make.glkterm    /usr/include/glkterm
+Make.glktermw   /usr/include/glkterm
 
