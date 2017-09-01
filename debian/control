@@ -8,9 +8,9 @@ Build-Depends: debhelper (>= 9.0.0),
 Standards-Version: 4.0.0
 Homepage: http://eblong.com/zarf/glk/remglk/docs.html
 
-Package: glktermw
+Package: glktermw-dev
 Architecture: any
 Depends: ${misc:Depends}
-Description: NCursesw.h Implementation of the Glk API.
+Description: Ncursesw.h Implementation of the Glk API.
  This is an implementation of the Glk library which runs in a terminal window,
  using the ncursesw.h library for screen control, written by Andrew Plotkin.
